@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.corpo{
+background-color: rgb(216,241,250);
+
+}
+ul li a:hover{
+	color: rgb(72,175,213);
+	
+}
+ul li a{
+	color: white;
+
+}
+.cabecalho{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: OCR A Std;
+	border-style: none;
+	border-radius: 6px;
+	margin-bottom: 1%;
+}
+.imagem{
+	height: auto;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.color{
+	background-color: rgb(2,13,17);
+}
+.color-active{
+background-color: rgb(42,112,137);
+}
+.rodape{
+	border-top-style: solid;
+	border-top-width: 1.5px;
+	border-top-color: rgb(42,112,137);
+	margin-top: 50px;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.rodape p{
+	font-family: OCR A Std;
+	font-size: 20px;
+	color: rgb(2,13,17);
+	text-align: center;
+	margin-top: 5px;
+}	
+.drop a{
+	margin: 0 0 0 0;
+	background-color: rgb(2,13,17);
+	border-style: none;
+	color: white;
+}
+.drop a:hover{
+	margin: 0 0 0 0;
+	background-color: rgb(2,13,17);
+	border-style: none;
+	color: rgb(72,175,213);
+}
+.drop-margem{
+	margin-top: 0.1%;
+}

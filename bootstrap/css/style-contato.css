@@ -1,0 +1,44 @@
+.banner-contato{
+	width: 70%;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-bottom: 20px;
+	height: auto;
+
+}
+.titulo{
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: rgb(42,112,137);
+	font-family: OCR A Std, monospace;
+	font-size: 25px;
+
+
+}
+.formulario{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+.color-bottom{
+	
+	background-color: rgb(2,13,17);
+	color: white;
+}
+.color-bottom:hover{
+	background-color: rgb(42,112,137);
+	color: white;
+
+}
+.borda{
+	border-style: solid;
+	border-width: 1px;
+}
+label, .color-bottom{
+	font-family: OCR A Std;
+}
